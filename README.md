@@ -61,19 +61,20 @@
       <br><br>
       <ul>
         <li>Development of Lite Twitter - <em>Python, Flask, Redis</em></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>Simulation of a Table Tennis Game with Bézier Curves - <em>JS, ThreeJS</em></li>
+        <li>Simple Apps 'Development for iOS and Android - <em>Swift, Java</em></li>
+        <li>Study & Implementation of a Variational AutoEncoder and MobileNetV3 - <em>Python, PyTorch</em></li>
+        <li>Exploring Data Jobs, from Engineering to Viz - <em>SQL, PowerBI, Python</em></li>
       </ul>
     </td>
     <td align = "center">
-      🛠️ Ongoing / Future Personal Projects :
-      <br><br>
+      🛠️ Ongoing / Future Projects :
+      <br><br><br>
       <ul>
         <li>Deep Learning for Audio Censoring 🔇</li>
         <li>Improving Web Development Mastery 🌐</li>
         <li>Intelligent Timetable Maker 📅</li>
+        <li>Interface Development for Visualizing Flight Data ✈️</li>
       </ul>
     </td>
   </tr>
