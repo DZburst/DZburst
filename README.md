@@ -74,7 +74,7 @@
         <li>Deep Learning for Audio Censoring 🔇</li>
         <li>Improving Web Development Mastery 🌐</li>
         <li>Intelligent Timetable Maker 📅</li>
-        <li>Interface Development for Flight Data Visualization ✈️</li>
+        <li>Flight Data Analysis via Unsupervised Learning and Genetic Algorithms ✈️</li>
       </ul>
     </td>
   </tr>
