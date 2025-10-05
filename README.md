@@ -7,10 +7,11 @@
 ```python
   {
     "HADJI Rayan",
-    "4th Year CS Student",
-    "Wants to specialize in AI / Big Data",
-    "Future Engineer / Teacher / ???",
-    "Eager to learn"
+    "Computer Science & Software Engineering graduate",
+    "Wants to specialize in AI / Big Data, with healthcare applications notably",
+    "Future Engineer / Teacher / Entrepreneur / ???",
+    "Eager to learn",
+    "Language enthusiast"
   }
 ```
 
@@ -57,7 +58,7 @@
 <table align="center">
   <tr>
     <td align = "center">
-      🎓 Some Previous School Projects 
+      🎓 Some Previous School & Work Projects 
       <br><br>
       <ul>
         <li>Development of Lite Twitter - <em>Python, Flask, Redis</em></li>
@@ -65,6 +66,8 @@
         <li>Simple Apps' Development for iOS and Android - <em>Swift, Java</em></li>
         <li>Study & Implementation of a Variational AutoEncoder and MobileNetV3 - <em>Python, PyTorch</em></li>
         <li>Exploring Data Jobs, from Engineering to Viz - <em>SQL, PowerBI, Python</em></li>
+        <li>Flight Data Analysis with Unsupervised Learning - <em>Excel, Python, SciKit-Learn</em></li>
+        <li>Re-Development of an aviation cartography system in SVG from scratch - <em>Bash, TileMaker, Docker</em></li>
       </ul>
     </td>
     <td align = "center">
@@ -74,7 +77,7 @@
         <li>Deep Learning for Audio Censoring 🔇</li>
         <li>Improving Web Development Mastery 🌐</li>
         <li>Intelligent Timetable Maker 📅</li>
-        <li>Flight Data Analysis via Unsupervised Learning and Genetic Algorithms ✈️</li>
+        <li>Development of a School Management platform 🏫</li>
       </ul>
     </td>
   </tr>
